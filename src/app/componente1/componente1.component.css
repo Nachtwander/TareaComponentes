@@ -1,0 +1,9 @@
+.color-fondo{
+    background-color: aquamarine;
+}
+
+.elemento{
+    padding: 5px;
+    border-radius: 10px;
+    margin: 5px;
+}

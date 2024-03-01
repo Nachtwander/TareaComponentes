@@ -1,0 +1,9 @@
+.color-fondo{
+    background-color: rgb(55, 82, 204);
+}
+
+.elemento{
+    padding: 5px;
+    border-radius: 10px;
+    margin: 5px;
+}
