@@ -3,8 +3,10 @@ import { IComponente3 } from './IComponente3';
 
 @Component({
   selector: 'app-componente3',
-  styleUrls: ['./componente3.component.css'],
+  standalone: true,
+  imports: [],
   templateUrl: './componente3.component.html',
+  styleUrl: './componente3.component.css'
 })
 export class Componente3 implements IComponente3 {
   mensaje: string;
